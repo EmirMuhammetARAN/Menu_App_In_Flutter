@@ -23,10 +23,10 @@ Uygulama açıldığında, ürün kategorilerini seçebilir ve arama kutusuna ü
 
 ## Ekran Görüntüleri
 
-(1.png)
-(2.png)
-(3.png)
-(4.png)
-(5.png)
-(6.png)
+![Tüm Ürünler](1.png)
+![İçecekler](2.png)
+![Yemekler](3.png)
+![Meyveler](4.png)
+![Favoriler](5.png)
+![Arama](6.png)
 
