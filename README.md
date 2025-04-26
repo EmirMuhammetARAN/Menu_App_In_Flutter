@@ -8,6 +8,8 @@ FilterApp, Flutter kullanarak geliştirilmiş bir ürün filtreleme uygulamasıd
 - **Favoriler**: Ürünleri favorilerinize ekleyip çıkarabilir, favorilerinizi kaydedebilirsiniz.
 - **Arama**: Ürün adıyla arama yaparak ürünleri hızlıca bulabilirsiniz.
 - **Dinamik Kategori Geçişi**: Kategoriler arasında geçiş yaparak istediğiniz ürünleri daha kolay keşfedin.
+- **Animasyonlar**: Her tuş ve tıklaya özel anımasyonlar.
+- **Dinamik yazılar ve renkler**: Çözünürlüğe duyarlı ui.
 
 ## Teknolojiler
 
