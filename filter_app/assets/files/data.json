@@ -1,0 +1,98 @@
+{
+  "urunler": [
+    {
+      "id": 1,
+      "kategori": 1,
+      "isim": "Kiraz",
+      "resim": "https://static7.depositphotos.com/1020804/687/i/450/depositphotos_6870353-stock-photo-two-perfect-sweet-cherries-with.jpg"
+    },
+    {
+      "id": 2,
+      "kategori": 1,
+      "isim": "Elma",
+      "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/1200px-Red_Apple.jpg"
+    },
+    {
+      "id": 4,
+      "kategori": 1,
+      "isim": "Cennet Hurması",
+      "resim": "https://cdn.scope.digital/Images/Articles/cennet-hurmasi-faydalari-nelerdir-7635247.jpg"
+    },
+    {
+      "id": 5,
+      "kategori": 2,
+      "isim": "Dolma",
+      "resim": "https://www.ardaninmutfagi.com/wp-content/uploads/2025/03/karisik-dolma-t.jpg"
+    },
+    {
+      "id": 6,
+      "kategori": 2,
+      "isim": "Menemen",
+      "resim": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480/img/recipe/ras/Assets/44f3f8ae5d6b544e1d0d9a408c079f86/Derivates/77b75b9983387565aa2f869702d1a85c0a2a8eba.jpg"
+    },
+    {
+      "id": 7,
+      "kategori": 1,
+      "isim": "Erik",
+      "resim": "https://static.ticimax.cloud/38693/uploads/urunresimleri/buyuk/erik-paket--110fb.jpg"
+    },
+    {
+      "id": 8,
+      "kategori": 2,
+      "isim": "Omlet",
+      "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Omelette-Plate.jpg/960px-Omelette-Plate.jpg"
+    },
+    {
+      "id": 9,
+      "kategori": 1,
+      "isim": "Çağla",
+      "resim": "https://upload.wikimedia.org/wikipedia/commons/6/63/Green_Almonds%2C_Kozan.JPG"
+    },
+    {
+      "id": 15,
+      "kategori": 2,
+      "isim": "Cacık",
+      "resim": "https://i.lezzet.com.tr/images-xxlarge-recipe/cacik-4e7341b2-b2db-4d19-b930-104869dc150b.jpg"
+    },
+    {
+      "id": 16,
+      "kategori": 3,
+      "isim": "Süt",
+      "resim": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Glass_of_Milk_%2833657535532%29.jpg"
+    },
+    {
+      "id": 19,
+      "kategori": 3,
+      "isim": "Çay",
+      "resim": "https://i.nefisyemektarifleri.com/2023/09/28/cay-kac-kalori.jpg"
+    },
+    {
+      "id": 20,
+      "kategori": 3,
+      "isim": "Limonata",
+      "resim": "https://www.ardaninmutfagi.com/wp-content/uploads/2019/05/Limonata-3-d.jpg"
+    }
+  ],
+  "kategoriler": [
+    {
+      "id": 1,
+      "isim": "Meyveler"
+    },
+    {
+      "id": 2,
+      "isim": "Yemekler"
+    },
+    {
+      "id": 3,
+      "isim": "İçecekler"
+    },
+    {
+      "id": 4,
+      "isim":"Tüm Ürünler"
+    },
+    {
+      "id": 5,
+      "isim": "Favoriler"
+    }
+  ]
+}
